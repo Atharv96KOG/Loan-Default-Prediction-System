@@ -4,6 +4,7 @@
 
 A comprehensive **Loan Default Prediction System** built using Machine Learning models like **XGBoost**, **Logistic Regression**, **Random Forest**, **KNN**, and enhanced with a **Psychological Risk Survey** (PRS) component.
 
+Web App Link : https://loan-default-prediction-systemtabreadme-ov-file-qznuzuymvxwhey.streamlit.app/
 ---
 
 ## 🌐 Overview
